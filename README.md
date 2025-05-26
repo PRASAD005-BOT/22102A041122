@@ -15,3 +15,9 @@ heat map of staock
 average calculator via api
 
 ![Screenshot 2025-05-26 121803](https://github.com/user-attachments/assets/b6282914-2bed-4eb2-a0d9-45d615bbb9c9)
+postman auth
+
+![Screenshot (282)](https://github.com/user-attachments/assets/4a98c838-5b81-4bfa-a4f6-1e66f55cd915)
+![Screenshot (281)](https://github.com/user-attachments/assets/bdcad27d-f1a2-497a-8c26-16807fda3bbf)
+
+
