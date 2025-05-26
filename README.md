@@ -1,4 +1,4 @@
-Stock Analysis and Calculator Project
+Please do install the nodemodules ...... and run to testStock Analysis and Calculator Project
 This project integrates a simple calculator and a stock market analysis tool featuring visualizations and API-based calculations.
 Screenshots & Features
 calculator 
